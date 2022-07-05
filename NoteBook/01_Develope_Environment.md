@@ -12,12 +12,12 @@
     ![4](https://user-images.githubusercontent.com/90036785/177342082-20932ecd-a728-455d-a37d-bf48bea9fbdf.png)
 ***
 * ## vscode 설치
-  1. <https://code.visualstudio.com/> 로 이동
-  2. Download for Windows 클릭
+  1. <https://code.visualstudio.com/> 로 이동  
+  2. Download for Windows 클릭  
     ![1](https://user-images.githubusercontent.com/90036785/177343593-6fea30f3-24cc-4bcc-9a18-eef88ea419c2.png)
-  3. Windows 버전 클릭
+  3. Windows 버전 클릭  
     ![2](https://user-images.githubusercontent.com/90036785/177343596-834d24b2-647c-4ca3-b065-72fb32681e9e.png)
-  4. 설치 과정 중 아래 두 개의 체크박스 선택
+  4. 설치 과정 중 아래 두 개의 체크박스 선택  
     ![3](https://user-images.githubusercontent.com/90036785/177343601-a9e79ab9-5e78-4df6-af0f-ba088bc45f01.png)
     > * 필수 Extension  
     >   * Python   
