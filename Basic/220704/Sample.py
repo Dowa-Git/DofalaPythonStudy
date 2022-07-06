@@ -32,7 +32,7 @@ for i in range(0,5):
 #  While 반복문 
 # Condition 변수 = 참
 Condition = True
-# 반복 Condition 변수가 참인 동안
+# 반복 [Condition 변수가 참인 동안]
 while Condition:
 #    출력기('*')
     print('*')
@@ -43,7 +43,7 @@ while Condition:
 # While 반복문 응용
 # CurrentInput 변수 = -1
 CurrentInput = ''
-# 반복 CurrentInput 변수가 0이 아닌 동안
+# 반복 [CurrentInput 변수가 0이 아닌 동안]
 while CurrentInput != '0':
     # CurrentInput 변수 = 입력기('숫자를 입력해주세요. (0을 입력하면 멈춥니다.')
     CurrentInput = input('input the word (for break input 0) : ')
