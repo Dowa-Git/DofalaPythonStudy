@@ -16,8 +16,7 @@ IsTrue = True
 
 
 # 입력 받기
-
-#[Input변수 = 입력기('입력 받을 떄 표시 될 문구')
+# Input변수 = 입력기('입력 받을 때 표시 될 문구')
 Input = input('input the number : ')
 # 출력(Input변수)
 print(Input)
