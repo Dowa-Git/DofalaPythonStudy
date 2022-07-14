@@ -1,1 +1,1 @@
-![Star_FlowChart](https://user-images.githubusercontent.com/90036785/178663942-6f6e5123-d56f-4484-b3b6-ef66e33a8899.png) 
+![StarPyramid_FlowChart](https://user-images.githubusercontent.com/90036785/178889524-bafec9ee-57ac-4f48-a23c-014340d4c505.png)
